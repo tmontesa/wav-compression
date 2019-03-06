@@ -1,0 +1,3 @@
+﻿  LosslessEncoder.cpp
+h:\dev\repos\365compress\365compress\losslessencoder.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  365Compress.vcxproj -> H:\dev\repos\365Compress\x64\Debug\365Compress.exe
